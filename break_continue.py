@@ -21,7 +21,7 @@
 
 
 def run():
-    LIMITE = 100000
+    LIMITE = 1000000
 
     contador = 0
     potencia_2 = 2 ** contador
