@@ -1,2 +1,2 @@
-# python_basico-lab
+# pythonBasic
 PYTHON BASICO
